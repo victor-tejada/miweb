@@ -1,0 +1,4 @@
+archivo 2
+segunda linea
+
+otra linea 
