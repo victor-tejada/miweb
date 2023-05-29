@@ -3,3 +3,4 @@ hola
 
 otra linea texto adicional
 probando git diff
+En la linea 6, agrego una nueva features
