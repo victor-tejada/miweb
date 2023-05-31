@@ -1,2 +1,2 @@
-este es el segundo fichero
-nueva linea
+fichero 2
+fichero 2
