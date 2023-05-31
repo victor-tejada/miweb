@@ -1,2 +1,3 @@
 este es el segundo fichero
 nueva linea
+información de prueba
